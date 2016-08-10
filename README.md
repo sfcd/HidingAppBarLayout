@@ -4,4 +4,4 @@
 
 An AppBarLayout behavior that hides AppBar's first child
 
-[![Animation](preview.gif)]
+![Animation](preview.gif)
