@@ -10,7 +10,7 @@ An AppBarLayout behavior that hides AppBar's first child
 
 Gradle:
 
-Add repository into the root build.gradle:
+Add repository to the root build.gradle:
 ```groovy
 repositories {
     ...
@@ -25,7 +25,7 @@ compile 'com.sfcd.hiding-appbarlayout:hidingappbar-behaviour:1.0.6'
 
 ## Usage
 
-Just declare "com.sfcd.hidingappbar.HidingAppBarLayoutBehavior" behaviour for your android.support.design.widget.AppBarLayout
+Just define "com.sfcd.hidingappbar.HidingAppBarLayoutBehavior" behaviour for your android.support.design.widget.AppBarLayout
 
 ```xml
 <android.support.design.widget.AppBarLayout
