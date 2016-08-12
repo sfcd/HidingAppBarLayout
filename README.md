@@ -10,15 +10,7 @@ An AppBarLayout behavior that hides AppBar's first child
 
 Gradle:
 
-Add repository to the root build.gradle:
-```groovy
-repositories {
-    ...
-    maven { url 'http://dl.bintray.com/asciidoctor/maven/' }
-}
-```
-
-Add a dependency to your build.gradle:
+Add a jCenter dependency to your build.gradle:
 ```groovy
 compile 'com.sfcd.hiding-appbarlayout:hidingappbar-behaviour:1.0.6'
 ```
